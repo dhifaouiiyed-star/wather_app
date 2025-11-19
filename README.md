@@ -1,7 +1,7 @@
 # weatherapp
 
 A new Flutter project.
-flutter
+flutter framework
 
 ## Getting Started
 
